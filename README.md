@@ -19,6 +19,8 @@
         agent.add('sum of '+x+' and '+y+' = '+z);
       }
     ```
+    
+ 8) Click on Deploy Button and Test it.
 
 ## Same you can make a logic for subtraction, multiplication and division.
 
